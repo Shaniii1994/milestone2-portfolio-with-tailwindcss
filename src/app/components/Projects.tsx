@@ -18,6 +18,13 @@ const data = [
     img: '/pic-2.jpg',
     tags: ['HTML', 'Node', 'TypeScript', 'CSS'],
   },
+ {
+    id: 2,
+    title: 'Dynamic Blog Website',
+    descr: 'A Dynamic Blog Website using TypeScript, TailwindCSS and Sanity.',
+    img: '/2025-03-27.png',
+    tags: ['Sanity', 'React.js', Node.js, 'TypeScript', 'Tailwind CSS'],
+  },
 ];
 
 const Projects = () => {
